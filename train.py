@@ -23,3 +23,4 @@ if __name__ == '__main__':
                 project='runs/train',
                 name='4',
                 )
+    # test
